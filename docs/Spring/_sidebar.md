@@ -1,1 +1,2 @@
 - [Spring获取ApplicationContest对象](./Spring获取ApplicationContest对象.md)
+- [@Configuration注解说明](./@Configuration.md)
